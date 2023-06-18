@@ -1,0 +1,328 @@
+event,rank,seed,final,swimmer_name,swimmer_age,swimmer_team,Score
+Event 1 - Boys 12U 100M Individual Medley,1.,1:16.53,1:15.99,"Guo, Peter ",12 ,RV,6.0
+Event 1 - Boys 12U 100M Individual Medley,2.,1:15.00,1:16.57,"Thomas, Tripp C ",11 ,SG,4.0
+Event 1 - Boys 12U 100M Individual Medley,4.,1:25.62,1:23.14,"Hernandez-Fuentes, Jordan O ",11 ,SG,3.0
+Event 1 - Boys 12U 100M Individual Medley,3.,1:24.61,1:24.38,"Zhang, Eric L ",10 ,RV,2.0
+Event 1 - Boys 12U 100M Individual Medley,4.,1:25.93,1:25.14,"Schwieters, Daniel S ",11 ,RV,0.0
+Event 1 - Boys 12U 100M Individual Medley,6.,1:27.09,1:25.14,"Kessous, Eli ",12 ,SG,0.0
+Event 10 - Girls 9-10 50M Freestyle,1.,32.77,31.80,"Young, Sara K ",10 ,RV,6.0
+Event 10 - Girls 9-10 50M Freestyle,2.,33.28,32.75,"McConnell, Caroline ",10 ,RV,4.0
+Event 10 - Girls 9-10 50M Freestyle,3.,34.26,33.53,"Robey, Annabel L ",10 ,RV,3.0
+Event 10 - Girls 9-10 50M Freestyle,1.,37.56,35.25,"Garcia, Eva ",10 ,SG,2.0
+Event 10 - Girls 9-10 50M Freestyle,5.,37.16,36.01,"Drozd, Lesia ",9 ,RV,1.0
+Event 10 - Girls 9-10 50M Freestyle,6.,37.22,36.82,"Chen, Zella ",10 ,RV,0.0
+Event 10 - Girls 9-10 50M Freestyle,3.,38.94,38.75,"Boscoe, Charleigh ",10 ,SG,0.0
+Event 10 - Girls 9-10 50M Freestyle,9.,41.78,39.68,"Combet, Emma ",9 ,RV,0.0
+Event 10 - Girls 9-10 50M Freestyle,5.,41.31,40.37,"Peterson, Lana B ",9 ,SG,0.0
+Event 10 - Girls 9-10 50M Freestyle,6.,42.97,41.97,"Higgins, Madeline ",9 ,SG,0.0
+Event 10 - Girls 9-10 50M Freestyle,9.,44.00,43.20,"Wofford, Maven ",9 ,SG,0.0
+Event 10 - Girls 9-10 50M Freestyle,12.,45.12,49.15,"Ige, Tomide ",10 ,SG,0.0
+Event 11 - Boys 11-12 50M Freestyle,2.,29.12,30.76,"Thomas, Tripp C ",11 ,SG,6.0
+Event 11 - Boys 11-12 50M Freestyle,2.,31.09,31.23,"Guo, Peter ",12 ,RV,4.0
+Event 11 - Boys 11-12 50M Freestyle,3.,33.50,31.75,"Estrada, Bogs C ",11 ,RV,3.0
+Event 11 - Boys 11-12 50M Freestyle,4.,32.16,32.13,"Hernandez-Fuentes, Jordan O ",11 ,SG,2.0
+Event 11 - Boys 11-12 50M Freestyle,4.,33.47,32.58,"Neeley, Aidan ",12 ,RV,1.0
+Event 11 - Boys 11-12 50M Freestyle,5.,34.15,33.67,"Zhang, Sean ",12 ,RV,0.0
+Event 11 - Boys 11-12 50M Freestyle,8.,34.00,33.72,"Kessous, Eli ",12 ,SG,0.0
+Event 11 - Boys 11-12 50M Freestyle,6.,33.50,33.78,"Schwieters, Daniel S ",11 ,RV,0.0
+Event 11 - Boys 11-12 50M Freestyle,10.,37.62,37.32,"Boyar, Miles A ",11 ,SG,0.0
+Event 11 - Boys 11-12 50M Freestyle,11.,39.16,37.58,"Morris, Zachary E ",11 ,SG,0.0
+Event 12 - Girls 11-12 50M Freestyle,1.,30.06,29.70,"Ryan, Jenna C ",11 ,SG,6.0
+Event 12 - Girls 11-12 50M Freestyle,2.,30.81,30.29,"Diaz, Juli D ",11 ,RV,4.0
+Event 12 - Girls 11-12 50M Freestyle,2.,30.44,31.01,"Bartley, Leah K ",12 ,SG,3.0
+Event 12 - Girls 11-12 50M Freestyle,6.,33.09,32.84,"Ciss�, Mouneissa ",12 ,RV,2.0
+Event 12 - Girls 11-12 50M Freestyle,6.,33.81,33.66,"Peterson, Grace S ",11 ,SG,1.0
+Event 12 - Girls 11-12 50M Freestyle,7.,33.46,33.76,"Lui, Ariel ",12 ,RV,0.0
+Event 12 - Girls 11-12 50M Freestyle,9.,35.35,34.41,"Hernandez-Fuentes, Briana L ",11 ,SG,0.0
+Event 12 - Girls 11-12 50M Freestyle,10.,33.72,34.71,"Wofford, Elise J ",11 ,SG,0.0
+Event 12 - Girls 11-12 50M Freestyle,9.,36.81,35.77,"He, Michelle ",12 ,RV,0.0
+Event 12 - Girls 11-12 50M Freestyle,11.,35.32,36.00,"Cao, Khuc ",12 ,SG,0.0
+Event 12 - Girls 11-12 50M Freestyle,10.,36.29,36.45,"Guo, Elena B ",12 ,RV,0.0
+Event 12 - Girls 11-12 50M Freestyle,11.,39.44,36.78,"Watanabe, Miya ",11 ,RV,0.0
+Event 13 - Boys 13-14 50M Freestyle,4.,28.85,28.77,"Adebiyi, Alexander ",13 ,SG,6.0
+Event 13 - Boys 13-14 50M Freestyle,3.,28.87,29.08,"Guo, Ethan B ",13 ,RV,4.0
+Event 13 - Boys 13-14 50M Freestyle,4.,28.71,29.22,"Iimi, Shou ",13 ,RV,3.0
+Event 13 - Boys 13-14 50M Freestyle,6.,31.07,30.25,"Grahl, Owen T ",14 ,SG,2.0
+Event 13 - Boys 13-14 50M Freestyle,5.,30.12,30.57,"Ma, Austin Q ",13 ,RV,1.0
+Event 13 - Boys 13-14 50M Freestyle,6.,30.64,30.58,"Kuan, Ethan ",13 ,RV,0.0
+Event 13 - Boys 13-14 50M Freestyle,8.,29.08,31.18,"Lee, John ",14 ,RV,0.0
+Event 13 - Boys 13-14 50M Freestyle,8.,30.87,32.06,"Simendic, Vukasin ",13 ,SG,0.0
+Event 13 - Boys 13-14 50M Freestyle,9.,40.13,38.52,"Willis, Jacob ",14 ,SG,0.0
+Event 13 - Boys 13-14 50M Freestyle,10.,39.72,38.84,"Houghton, Wesley ",14 ,SG,0.0
+Event 13 - Boys 13-14 50M Freestyle,12.,44.25,42.06,"Shailesh, Shivank ",13 ,RV,0.0
+Event 14 - Girls 13-14 50M Freestyle,1.,29.38,29.50,"Liu, Rachael ",13 ,RV,6.0
+Event 14 - Girls 13-14 50M Freestyle,2.,30.27,30.14,"Sha, Anabel ",14 ,RV,4.0
+Event 14 - Girls 13-14 50M Freestyle,3.,30.57,30.36,"Li, Reyna ",14 ,RV,3.0
+Event 14 - Girls 13-14 50M Freestyle,4.,31.15,30.63,"Georgiou, Maria Olympia O ",13 ,RV,2.0
+Event 14 - Girls 13-14 50M Freestyle,2.,30.75,30.65,"Egwim, Tiffany ",14 ,SG,1.0
+Event 14 - Girls 13-14 50M Freestyle,5.,32.23,31.03,"Kertajaya, Evelyn ",14 ,RV,0.0
+Event 14 - Girls 13-14 50M Freestyle,3.,30.50,31.28,"Sanford, Molly C ",13 ,SG,0.0
+Event 14 - Girls 13-14 50M Freestyle,7.,32.14,32.03,"Ng, Henna ",13 ,RV,0.0
+Event 14 - Girls 13-14 50M Freestyle,5.,32.50,32.32,"Dewey, Lydia ",14 ,SG,0.0
+Event 14 - Girls 13-14 50M Freestyle,7.,32.47,32.44,"Egwim, Tessa ",13 ,SG,0.0
+Event 14 - Girls 13-14 50M Freestyle,8.,33.69,33.07,"Ryan, Alyssa M ",14 ,SG,0.0
+Event 14 - Girls 13-14 50M Freestyle,10.,35.41,35.34,"Wofford, Rayna R ",13 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,1.,53.44,52.15,"Arioti, Adriano ",16 ,RV,6.0
+Event 15 - Boys 15-18 100M Freestyle,3.,52.06,55.84,"Fu, Ethan ",18 ,RV,4.0
+Event 15 - Boys 15-18 100M Freestyle,5.,56.91,56.85,"Mukoyama, Ray ",16 ,RV,3.0
+Event 15 - Boys 15-18 100M Freestyle,6.,57.15,58.22,"Chen, Cedric G ",16 ,RV,2.0
+Event 15 - Boys 15-18 100M Freestyle,7.,57.20,58.30,"Kueh, Michael ",15 ,RV,1.0
+Event 15 - Boys 15-18 100M Freestyle,8.,57.50,59.13,"Hou, Jaden ",16 ,RV,0.0
+Event 15 - Boys 15-18 100M Freestyle,5.,NT,1:03.10,"Missig, Will ",17 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,8.,NT,1:06.28,"Linck, Nicholas ",18 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,9.,1:15.15,1:08.63,"Sanidad, Federico J ",16 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,10.,1:09.78,1:09.25,"Jeffery, Harry ",15 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,11.,1:21.03,1:10.97,"Willis, Luke ",17 ,SG,0.0
+Event 15 - Boys 15-18 100M Freestyle,12.,NT,1:12.32,"Willis, Benjamin ",17 ,SG,0.0
+Event 16 - Girls 15-18 100M Freestyle,1.,1:04.14,1:00.43,"Eliason, Sarah ",17 ,RV,6.0
+Event 16 - Girls 15-18 100M Freestyle,2.,56.63,1:00.95,"Schwieters, Julie ",16 ,RV,4.0
+Event 16 - Girls 15-18 100M Freestyle,3.,1:03.36,1:02.82,"Xiao, Alice Y ",15 ,RV,3.0
+Event 16 - Girls 15-18 100M Freestyle,2.,1:06.00,1:05.57,"Linck, Elizabeth ",16 ,SG,2.0
+Event 16 - Girls 15-18 100M Freestyle,5.,1:06.39,1:06.81,"Yang, Julie ",15 ,RV,1.0
+Event 16 - Girls 15-18 100M Freestyle,3.,1:08.50,1:07.14,"Lamb, Amy V ",18 ,SG,0.0
+Event 16 - Girls 15-18 100M Freestyle,4.,1:08.65,1:07.31,"Zalalutdinov, Darya H ",15 ,SG,0.0
+Event 16 - Girls 15-18 100M Freestyle,5.,1:12.53,1:08.63,"Grahl, Sophie M ",15 ,SG,0.0
+Event 16 - Girls 15-18 100M Freestyle,8.,1:07.25,1:10.38,"Li, Bojie B ",17 ,RV,0.0
+Event 16 - Girls 15-18 100M Freestyle,10.,1:19.20,1:13.78,"Sanidad, Miranda G ",18 ,SG,0.0
+Event 16 - Girls 15-18 100M Freestyle,11.,1:23.72,1:18.87,"Lang, Molly ",17 ,SG,0.0
+Event 17 - Boys 8U 25M Backstroke,2.,26.04,25.90,"Egwim, Declan ",8 ,SG,6.0
+Event 17 - Boys 8U 25M Backstroke,3.,28.27,27.21,"Reynoso, Matias ",8 ,SG,4.0
+Event 17 - Boys 8U 25M Backstroke,1.,27.69,27.43,"Wu, Alexander ",7 ,RV,3.0
+Event 17 - Boys 8U 25M Backstroke,2.,26.43,27.67,"Gleichmann, Joseph ",8 ,RV,2.0
+Event 17 - Boys 8U 25M Backstroke,3.,26.93,29.35,"Sun, Thiago ",7 ,RV,1.0
+Event 17 - Boys 8U 25M Backstroke,6.,33.00,33.90,"Ascensio, Sebastian ",8 ,SG,0.0
+Event 18 - Girls 8U 25M Backstroke,1.,21.34,21.09,"Robey, Abigail R ",8 ,RV,6.0
+Event 18 - Girls 8U 25M Backstroke,2.,21.90,21.39,"Young, Margie F ",8 ,RV,4.0
+Event 18 - Girls 8U 25M Backstroke,3.,22.00,22.06,"Yang, Chloe X ",8 ,RV,3.0
+Event 18 - Girls 8U 25M Backstroke,1.,25.47,24.64,"Seeley, Scout ",8 ,SG,2.0
+Event 18 - Girls 8U 25M Backstroke,2.,29.28,28.39,"Freedman, Oakley J ",7 ,SG,1.0
+Event 18 - Girls 8U 25M Backstroke,3.,31.87,32.59,"Nusbaum, Coralie ",8 ,SG,0.0
+Event 19 - Boys 9-10 25M Backstroke,1.,19.08,19.06,"Elag, Mahmoud M ",9 ,RV,6.0
+Event 19 - Boys 9-10 25M Backstroke,4.,22.03,21.68,"Neeley, Kien ",10 ,RV,4.0
+Event 19 - Boys 9-10 25M Backstroke,5.,21.21,21.87,"Liu, Jayden ",10 ,RV,3.0
+Event 19 - Boys 9-10 25M Backstroke,4.,24.34,24.18,"Makfinsky, James ",10 ,SG,2.0
+Event 19 - Boys 9-10 25M Backstroke,5.,26.00,26.45,"Goodman, Joseph ",9 ,SG,1.0
+Event 19 - Boys 9-10 25M Backstroke,6.,30.97,29.60,"Harvey, Elias ",9 ,SG,0.0
+Event 2 - Girls 12U 100M Individual Medley,2.,1:15.73,1:14.94,"Diaz, Juli D ",11 ,RV,6.0
+Event 2 - Girls 12U 100M Individual Medley,1.,1:16.53,1:15.41,"Ryan, Jenna C ",11 ,SG,4.0
+Event 2 - Girls 12U 100M Individual Medley,2.,1:19.10,1:18.25,"Bartley, Leah K ",12 ,SG,3.0
+Event 2 - Girls 12U 100M Individual Medley,5.,1:23.14,1:19.99,"Young, Sara K ",10 ,RV,2.0
+Event 2 - Girls 12U 100M Individual Medley,6.,1:23.96,1:23.14,"Chan, Elizabeth ",10 ,RV,1.0
+Event 2 - Girls 12U 100M Individual Medley,6.,1:23.50,1:27.31,"Wofford, Elise J ",11 ,SG,0.0
+Event 20 - Girls 9-10 25M Backstroke,1.,18.28,17.21,"Young, Sara K ",10 ,RV,6.0
+Event 20 - Girls 9-10 25M Backstroke,2.,17.46,17.38,"Chan, Elizabeth ",10 ,RV,4.0
+Event 20 - Girls 9-10 25M Backstroke,3.,18.47,18.19,"Robey, Annabel L ",10 ,RV,3.0
+Event 20 - Girls 9-10 25M Backstroke,2.,18.63,18.88,"Kessous, Eden ",10 ,SG,2.0
+Event 20 - Girls 9-10 25M Backstroke,4.,22.12,21.07,"Boscoe, Charleigh ",10 ,SG,1.0
+Event 20 - Girls 9-10 25M Backstroke,5.,22.56,21.84,"Higgins, Madeline ",9 ,SG,0.0
+Event 21 - Boys 11-12 50M Backstroke,1.,36.62,36.43,"Guo, Peter ",12 ,RV,6.0
+Event 21 - Boys 11-12 50M Backstroke,3.,40.08,37.55,"Neeley, Aidan ",12 ,RV,4.0
+Event 21 - Boys 11-12 50M Backstroke,3.,37.93,38.06,"Hernandez-Fuentes, Jordan O ",11 ,SG,3.0
+Event 21 - Boys 11-12 50M Backstroke,5.,39.53,38.81,"Zhang, Sean ",12 ,RV,2.0
+Event 21 - Boys 11-12 50M Backstroke,4.,41.44,39.38,"Parker, Luke ",11 ,SG,1.0
+Event 21 - Boys 11-12 50M Backstroke,5.,38.97,39.75,"Kessous, Eli ",12 ,SG,0.0
+Event 22 - Girls 11-12 50M Backstroke,2.,34.22,34.45,"Diaz, Juli D ",11 ,RV,6.0
+Event 22 - Girls 11-12 50M Backstroke,1.,35.31,35.19,"Ryan, Jenna C ",11 ,SG,4.0
+Event 22 - Girls 11-12 50M Backstroke,4.,37.95,37.37,"Ciss�, Mouneissa ",12 ,RV,3.0
+Event 22 - Girls 11-12 50M Backstroke,5.,39.28,39.60,"Peterson, Grace S ",11 ,SG,2.0
+Event 22 - Girls 11-12 50M Backstroke,6.,38.72,40.25,"Wofford, Elise J ",11 ,SG,1.0
+Event 22 - Girls 11-12 50M Backstroke,5.,41.95,41.60,"Guo, Elena B ",12 ,RV,0.0
+Event 23 - Boys 13-14 50M Backstroke,1.,31.84,31.50,"Dawson, Jack ",14 ,SG,6.0
+Event 23 - Boys 13-14 50M Backstroke,3.,33.40,32.70,"Adebiyi, Alexander ",13 ,SG,4.0
+Event 23 - Boys 13-14 50M Backstroke,2.,32.59,33.58,"Iimi, Shou ",13 ,RV,3.0
+Event 23 - Boys 13-14 50M Backstroke,3.,34.22,34.07,"Guo, Ethan B ",13 ,RV,2.0
+Event 23 - Boys 13-14 50M Backstroke,5.,36.22,34.35,"Grahl, Owen T ",14 ,SG,1.0
+Event 23 - Boys 13-14 50M Backstroke,5.,36.49,36.75,"Ma, Austin Q ",13 ,RV,0.0
+Event 24 - Girls 13-14 50M Backstroke,1.,33.81,33.71,"Sha, Anabel ",14 ,RV,6.0
+Event 24 - Girls 13-14 50M Backstroke,2.,34.25,34.18,"Li, Reyna ",14 ,RV,4.0
+Event 24 - Girls 13-14 50M Backstroke,3.,35.33,36.94,"Liu, Rachael ",13 ,RV,3.0
+Event 24 - Girls 13-14 50M Backstroke,2.,37.81,38.34,"Sanford, Molly C ",13 ,SG,2.0
+Event 24 - Girls 13-14 50M Backstroke,3.,38.37,38.76,"Dewey, Lydia ",14 ,SG,1.0
+Event 24 - Girls 13-14 50M Backstroke,6.,40.68,40.53,"Ryan, Alyssa M ",14 ,SG,0.0
+Event 25 - Boys 15-18 100M Backstroke,1.,57.24,54.50,"Arioti, Adriano ",16 ,RV,6.0
+Event 25 - Boys 15-18 100M Backstroke,4.,1:04.81,1:05.43,"Kueh, Michael ",15 ,RV,4.0
+Event 25 - Boys 15-18 100M Backstroke,5.,1:07.25,1:07.78,"Hou, Jaden ",16 ,RV,3.0
+Event 25 - Boys 15-18 100M Backstroke,4.,1:15.11,1:14.41,"Linck, Nicholas ",18 ,SG,2.0
+Event 25 - Boys 15-18 100M Backstroke,5.,1:19.11,1:14.56,"Missig, Will ",17 ,SG,1.0
+Event 25 - Boys 15-18 100M Backstroke,6.,1:25.18,1:25.47,"Jeffery, Harry ",15 ,SG,0.0
+Event 26 - Girls 15-18 100M Backstroke,1.,1:12.45,1:11.60,"Xiao, Alice Y ",15 ,RV,6.0
+Event 26 - Girls 15-18 100M Backstroke,2.,1:13.60,1:13.50,"Linck, Elizabeth ",16 ,SG,4.0
+Event 26 - Girls 15-18 100M Backstroke,2.,1:15.02,1:13.64,"Miller, Kelsie ",17 ,RV,3.0
+Event 26 - Girls 15-18 100M Backstroke,4.,1:14.65,1:15.08,"Gao, Elizabeth ",15 ,RV,2.0
+Event 26 - Girls 15-18 100M Backstroke,3.,1:23.68,1:20.16,"Grahl, Sophie M ",15 ,SG,1.0
+Event 26 - Girls 15-18 100M Backstroke,4.,1:19.13,1:20.47,"Zalalutdinov, Darya H ",15 ,SG,0.0
+Event 29 - Boys 8U 25M Breast stroke,1.,23.16,24.78,"Liu, Caden ",8 ,RV,6.0
+Event 29 - Boys 8U 25M Breast stroke,2.,27.16,27.01,"Sandstrom, Damian M ",8 ,SG,4.0
+Event 29 - Boys 8U 25M Breast stroke,4.,36.34,31.26,"Parker, Hunter ",7 ,SG,3.0
+Event 29 - Boys 8U 25M Breast stroke,4.,29.54,31.44,"Gleichmann, Joseph ",8 ,RV,2.0
+Event 29 - Boys 8U 25M Breast stroke,5.,36.03,35.32,"Li, Nathan J ",7 ,RV,1.0
+Event 3 - Boys 13-14 100M Individual Medley,1.,1:07.88,1:06.21,"Dawson, Jack ",14 ,SG,6.0
+Event 3 - Boys 13-14 100M Individual Medley,3.,1:12.01,1:11.83,"Guo, Ethan B ",13 ,RV,4.0
+Event 3 - Boys 13-14 100M Individual Medley,4.,1:10.16,1:12.42,"Iimi, Shou ",13 ,RV,3.0
+Event 3 - Boys 13-14 100M Individual Medley,5.,1:14.06,1:12.63,"Adebiyi, Alexander ",13 ,SG,2.0
+Event 3 - Boys 13-14 100M Individual Medley,6.,1:18.28,1:16.47,"Ma, Austin Q ",13 ,RV,1.0
+Event 3 - Boys 13-14 100M Individual Medley,6.,1:21.22,1:22.07,"Simendic, Vukasin ",13 ,SG,0.0
+Event 30 - Girls 8U 25M Breast stroke,1.,22.84,23.56,"Zhang, Emma L ",7 ,RV,6.0
+Event 30 - Girls 8U 25M Breast stroke,2.,24.78,24.45,"Yang, Chloe X ",8 ,RV,4.0
+Event 30 - Girls 8U 25M Breast stroke,3.,26.52,25.44,"Young, Margie F ",8 ,RV,3.0
+Event 30 - Girls 8U 25M Breast stroke,2.,30.59,30.07,"Seeley, Scout ",8 ,SG,2.0
+Event 30 - Girls 8U 25M Breast stroke,4.,33.78,32.75,"Abbamonte, Piper ",8 ,SG,1.0
+Event 30 - Girls 8U 25M Breast stroke,5.,NT,33.78,"Freedman, Oakley J ",7 ,SG,0.0
+Event 31 - Boys 9-10 25M Breast stroke,1.,21.76,20.70,"Zhang, Eric L ",10 ,RV,6.0
+Event 31 - Boys 9-10 25M Breast stroke,2.,21.72,21.95,"Boyar, Grant ",9 ,SG,4.0
+Event 31 - Boys 9-10 25M Breast stroke,3.,23.50,23.01,"Neeley, Kien ",10 ,RV,3.0
+Event 31 - Boys 9-10 25M Breast stroke,5.,23.88,24.30,"Liu, Jayden ",10 ,RV,2.0
+Event 31 - Boys 9-10 25M Breast stroke,5.,49.39,34.15,"Makfinsky, James ",10 ,SG,1.0
+Event 31 - Boys 9-10 25M Breast stroke,6.,38.65,34.75,"Harvey, Elias ",9 ,SG,0.0
+Event 32 - Girls 9-10 25M Breast stroke,1.,20.31,19.97,"Robey, Annabel L ",10 ,RV,6.0
+Event 32 - Girls 9-10 25M Breast stroke,2.,20.31,20.28,"Chan, Elizabeth ",10 ,RV,4.0
+Event 32 - Girls 9-10 25M Breast stroke,3.,21.28,20.92,"McConnell, Caroline ",10 ,RV,3.0
+Event 32 - Girls 9-10 25M Breast stroke,3.,22.44,22.44,"Kessous, Eden ",10 ,SG,2.0
+Event 32 - Girls 9-10 25M Breast stroke,4.,23.00,23.06,"Garcia, Eva ",10 ,SG,1.0
+Event 32 - Girls 9-10 25M Breast stroke,6.,25.69,26.16,"Wofford, Maven ",9 ,SG,0.0
+Event 33 - Boys 11-12 50M Breast stroke,1.,39.58,38.47,"Guo, Peter ",12 ,RV,6.0
+Event 33 - Boys 11-12 50M Breast stroke,1.,38.22,38.89,"Thomas, Tripp C ",11 ,SG,4.0
+Event 33 - Boys 11-12 50M Breast stroke,3.,45.31,43.38,"Zhang, Sean ",12 ,RV,3.0
+Event 33 - Boys 11-12 50M Breast stroke,5.,44.81,43.66,"Kessous, Eli ",12 ,SG,2.0
+Event 33 - Boys 11-12 50M Breast stroke,6.,46.38,45.16,"Parker, Luke ",11 ,SG,1.0
+Event 34 - Girls 11-12 50M Breast stroke,1.,40.62,39.41,"Ryan, Jenna C ",11 ,SG,6.0
+Event 34 - Girls 11-12 50M Breast stroke,2.,39.59,39.72,"Bartley, Leah K ",12 ,SG,4.0
+Event 34 - Girls 11-12 50M Breast stroke,2.,43.72,43.54,"Guo, Elena B ",12 ,RV,3.0
+Event 34 - Girls 11-12 50M Breast stroke,3.,44.97,45.23,"Lui, Ariel ",12 ,RV,2.0
+Event 34 - Girls 11-12 50M Breast stroke,6.,45.59,45.93,"Thompson, Tessa ",12 ,SG,1.0
+Event 34 - Girls 11-12 50M Breast stroke,5.,49.95,48.53,"Combet, Gillian ",11 ,RV,0.0
+Event 35 - Boys 13-14 50M Breast stroke,1.,32.00,32.00,"Dawson, Jack ",14 ,SG,6.0
+Event 35 - Boys 13-14 50M Breast stroke,2.,37.22,37.80,"Iimi, Shou ",13 ,RV,4.0
+Event 35 - Boys 13-14 50M Breast stroke,3.,39.47,38.24,"Kuan, Ethan ",13 ,RV,3.0
+Event 35 - Boys 13-14 50M Breast stroke,5.,41.13,40.32,"Simendic, Vukasin ",13 ,SG,2.0
+Event 35 - Boys 13-14 50M Breast stroke,6.,42.22,42.07,"Grahl, Owen T ",14 ,SG,1.0
+Event 35 - Boys 13-14 50M Breast stroke,5.,44.28,43.96,"Lee, John ",14 ,RV,0.0
+Event 36 - Girls 13-14 50M Breast stroke,1.,36.25,36.65,"Li, Reyna ",14 ,RV,6.0
+Event 36 - Girls 13-14 50M Breast stroke,3.,40.75,39.66,"Kertajaya, Evelyn ",14 ,RV,4.0
+Event 36 - Girls 13-14 50M Breast stroke,1.,40.34,39.88,"Egwim, Tiffany ",14 ,SG,3.0
+Event 36 - Girls 13-14 50M Breast stroke,4.,40.08,40.47,"Scott, Samantha ",13 ,RV,2.0
+Event 36 - Girls 13-14 50M Breast stroke,3.,42.59,43.16,"Dewey, Lydia ",14 ,SG,1.0
+Event 36 - Girls 13-14 50M Breast stroke,5.,46.13,44.51,"Egwim, Tessa ",13 ,SG,0.0
+Event 37 - Boys 15-18 100M Breast stroke,2.,1:10.25,1:07.70,"Doan, Jason ",18 ,RV,6.0
+Event 37 - Boys 15-18 100M Breast stroke,4.,1:04.31,1:10.34,"Fu, Ethan ",18 ,RV,4.0
+Event 37 - Boys 15-18 100M Breast stroke,5.,1:11.53,1:12.36,"Qian, Ethan ",16 ,RV,3.0
+Event 37 - Boys 15-18 100M Breast stroke,4.,1:32.31,1:24.97,"Willis, Luke ",17 ,SG,2.0
+Event 37 - Boys 15-18 100M Breast stroke,5.,1:28.58,1:25.77,"Sanidad, Federico J ",16 ,SG,1.0
+Event 37 - Boys 15-18 100M Breast stroke,6.,1:33.13,1:32.38,"Jeffery, Harry ",15 ,SG,0.0
+Event 38 - Girls 15-18 100M Breast stroke,1.,1:18.22,1:20.32,"Eliason, Sarah ",17 ,RV,6.0
+Event 38 - Girls 15-18 100M Breast stroke,2.,1:22.58,1:23.99,"Yang, Julie ",15 ,RV,4.0
+Event 38 - Girls 15-18 100M Breast stroke,6.,1:17.76,1:25.60,"Schwieters, Julie ",16 ,RV,3.0
+Event 38 - Girls 15-18 100M Breast stroke,4.,1:34.93,1:31.16,"Grahl, Sophie M ",15 ,SG,2.0
+Event 38 - Girls 15-18 100M Breast stroke,5.,1:33.09,1:34.33,"Sanidad, Miranda G ",18 ,SG,1.0
+Event 38 - Girls 15-18 100M Breast stroke,6.,1:42.34,1:38.81,"Lang, Molly ",17 ,SG,0.0
+Event 39 - Boys 8U 25M Butterfly,1.,19.36,20.97,"Liu, Caden ",8 ,RV,6.0
+Event 39 - Boys 8U 25M Butterfly,2.,21.75,21.59,"Sandstrom, Damian M ",8 ,SG,4.0
+Event 39 - Boys 8U 25M Butterfly,3.,24.40,24.53,"Egwim, Declan ",8 ,SG,3.0
+Event 39 - Boys 8U 25M Butterfly,3.,24.78,29.69,"Sun, Thiago ",7 ,RV,2.0
+Event 39 - Boys 8U 25M Butterfly,4.,34.41,31.13,"Parker, Hunter ",7 ,SG,1.0
+Event 39 - Boys 8U 25M Butterfly,5.,34.90,31.19,"Rai, Rohan ",6 ,RV,0.0
+Event 4 - Girls 13-14 100M Individual Medley,1.,1:12.28,1:12.19,"Li, Reyna ",14 ,RV,6.0
+Event 4 - Girls 13-14 100M Individual Medley,2.,1:15.07,1:14.75,"Sha, Anabel ",14 ,RV,4.0
+Event 4 - Girls 13-14 100M Individual Medley,3.,1:14.05,1:15.40,"Liu, Rachael ",13 ,RV,3.0
+Event 4 - Girls 13-14 100M Individual Medley,3.,1:21.00,1:20.15,"Egwim, Tiffany ",14 ,SG,2.0
+Event 4 - Girls 13-14 100M Individual Medley,4.,1:20.13,1:20.82,"Sanford, Molly C ",13 ,SG,1.0
+Event 4 - Girls 13-14 100M Individual Medley,5.,1:22.10,1:21.00,"Dewey, Lydia ",14 ,SG,0.0
+Event 40 - Girls 8U 25M Butterfly,1.,21.16,20.69,"Yang, Chloe X ",8 ,RV,6.0
+Event 40 - Girls 8U 25M Butterfly,2.,21.19,20.84,"Robey, Abigail R ",8 ,RV,4.0
+Event 40 - Girls 8U 25M Butterfly,3.,21.28,21.34,"Zhang, Emma L ",7 ,RV,3.0
+Event 40 - Girls 8U 25M Butterfly,3.,29.84,29.02,"Freedman, Oakley J ",7 ,SG,2.0
+Event 40 - Girls 8U 25M Butterfly,4.,33.11,31.35,"Nusbaum, Coralie ",8 ,SG,1.0
+Event 40 - Girls 8U 25M Butterfly,5.,32.65,31.38,"Kessous, Emelia ",7 ,SG,0.0
+Event 41 - Boys 9-10 25M Butterfly,1.,18.44,17.21,"Elag, Mahmoud M ",9 ,RV,6.0
+Event 41 - Boys 9-10 25M Butterfly,2.,17.57,17.48,"Zhang, Eric L ",10 ,RV,4.0
+Event 41 - Boys 9-10 25M Butterfly,5.,19.38,19.02,"Zhou, Lucas ",9 ,RV,3.0
+Event 41 - Boys 9-10 25M Butterfly,4.,20.19,19.39,"Boyar, Grant ",9 ,SG,2.0
+Event 41 - Boys 9-10 25M Butterfly,5.,37.63,33.90,"Harvey, Elias ",9 ,SG,1.0
+Event 41 - Boys 9-10 25M Butterfly,6.,31.60,38.03,"Goodman, Joseph ",9 ,SG,0.0
+Event 42 - Girls 9-10 25M Butterfly,1.,16.15,15.96,"McConnell, Caroline ",10 ,RV,6.0
+Event 42 - Girls 9-10 25M Butterfly,2.,15.63,16.04,"Chan, Elizabeth ",10 ,RV,4.0
+Event 42 - Girls 9-10 25M Butterfly,3.,16.67,16.45,"Young, Sara K ",10 ,RV,3.0
+Event 42 - Girls 9-10 25M Butterfly,2.,17.31,17.65,"Kessous, Eden ",10 ,SG,2.0
+Event 42 - Girls 9-10 25M Butterfly,5.,19.59,20.77,"Garcia, Eva ",10 ,SG,1.0
+Event 42 - Girls 9-10 25M Butterfly,6.,20.40,21.16,"Boscoe, Charleigh ",10 ,SG,0.0
+Event 43 - Boys 11-12 50M Butterfly,2.,32.88,32.22,"Thomas, Tripp C ",11 ,SG,6.0
+Event 43 - Boys 11-12 50M Butterfly,2.,37.53,37.53,"Schwieters, Daniel S ",11 ,RV,4.0
+Event 43 - Boys 11-12 50M Butterfly,3.,38.40,37.66,"Hernandez-Fuentes, Jordan O ",11 ,SG,3.0
+Event 43 - Boys 11-12 50M Butterfly,3.,40.03,37.67,"Song, Ryan M ",12 ,RV,2.0
+Event 43 - Boys 11-12 50M Butterfly,5.,39.18,38.58,"Neeley, Aidan ",12 ,RV,1.0
+Event 43 - Boys 11-12 50M Butterfly,5.,41.28,40.12,"Parker, Luke ",11 ,SG,0.0
+Event 44 - Girls 11-12 50M Butterfly,1.,32.39,31.76,"Diaz, Juli D ",11 ,RV,6.0
+Event 44 - Girls 11-12 50M Butterfly,1.,35.85,35.58,"Bartley, Leah K ",12 ,SG,4.0
+Event 44 - Girls 11-12 50M Butterfly,2.,38.22,35.75,"Peterson, Grace S ",11 ,SG,3.0
+Event 44 - Girls 11-12 50M Butterfly,5.,38.10,37.51,"Ciss�, Mouneissa ",12 ,RV,2.0
+Event 44 - Girls 11-12 50M Butterfly,6.,38.89,39.83,"Lui, Ariel ",12 ,RV,1.0
+Event 44 - Girls 11-12 50M Butterfly,6.,40.53,42.41,"Wofford, Elise J ",11 ,SG,0.0
+Event 45 - Boys 13-14 50M Butterfly,2.,30.91,30.08,"Dawson, Jack ",14 ,SG,6.0
+Event 45 - Boys 13-14 50M Butterfly,2.,32.09,31.72,"Guo, Ethan B ",13 ,RV,4.0
+Event 45 - Boys 13-14 50M Butterfly,4.,32.78,32.16,"Adebiyi, Alexander ",13 ,SG,3.0
+Event 45 - Boys 13-14 50M Butterfly,4.,34.29,34.25,"Ma, Austin Q ",13 ,RV,2.0
+Event 45 - Boys 13-14 50M Butterfly,6.,36.37,35.99,"Kuan, Ethan ",13 ,RV,1.0
+Event 45 - Boys 13-14 50M Butterfly,6.,38.57,38.76,"Simendic, Vukasin ",13 ,SG,0.0
+Event 46 - Girls 13-14 50M Butterfly,1.,33.00,32.36,"Sha, Anabel ",14 ,RV,6.0
+Event 46 - Girls 13-14 50M Butterfly,2.,33.16,32.99,"Georgiou, Maria Olympia O ",13 ,RV,4.0
+Event 46 - Girls 13-14 50M Butterfly,2.,32.96,33.00,"Egwim, Tiffany ",14 ,SG,3.0
+Event 46 - Girls 13-14 50M Butterfly,4.,34.69,33.57,"Sanford, Molly C ",13 ,SG,2.0
+Event 46 - Girls 13-14 50M Butterfly,3.,33.65,35.02,"Liu, Rachael ",13 ,RV,1.0
+Event 46 - Girls 13-14 50M Butterfly,5.,36.50,35.66,"Egwim, Tessa ",13 ,SG,0.0
+Event 47 - Boys 15-18 50M Butterfly,1.,26.08,25.65,"Arioti, Adriano ",16 ,RV,6.0
+Event 47 - Boys 15-18 50M Butterfly,3.,27.56,28.02,"Kueh, Michael ",15 ,RV,4.0
+Event 47 - Boys 15-18 50M Butterfly,4.,28.09,28.37,"Mukoyama, Ray ",16 ,RV,3.0
+Event 47 - Boys 15-18 50M Butterfly,2.,29.11,28.83,"Linck, Nicholas ",18 ,SG,2.0
+Event 47 - Boys 15-18 50M Butterfly,4.,37.11,33.03,"Missig, Will ",17 ,SG,1.0
+Event 47 - Boys 15-18 50M Butterfly,5.,39.20,35.14,"Sanidad, Federico J ",16 ,SG,0.0
+Event 48 - Girls 15-18 50M Butterfly,1.,29.50,28.63,"Eliason, Sarah ",17 ,RV,6.0
+Event 48 - Girls 15-18 50M Butterfly,2.,29.90,30.09,"Xiao, Alice Y ",15 ,RV,4.0
+Event 48 - Girls 15-18 50M Butterfly,3.,30.28,30.85,"Miller, Kelsie ",17 ,RV,3.0
+Event 48 - Girls 15-18 50M Butterfly,2.,31.63,31.47,"Linck, Elizabeth ",16 ,SG,2.0
+Event 48 - Girls 15-18 50M Butterfly,3.,31.93,32.15,"Zalalutdinov, Darya H ",15 ,SG,1.0
+Event 48 - Girls 15-18 50M Butterfly,6.,35.97,34.19,"Lamb, Amy V ",18 ,SG,0.0
+Event 5 - Boys 15-18 100M Individual Medley,1.,57.84,55.68,"Arioti, Adriano ",16 ,RV,6.0
+Event 5 - Boys 15-18 100M Individual Medley,4.,1:03.07,1:01.24,"Doan, Jason ",18 ,RV,4.0
+Event 5 - Boys 15-18 100M Individual Medley,5.,56.22,1:03.14,"Fu, Ethan ",18 ,RV,3.0
+Event 5 - Boys 15-18 100M Individual Medley,4.,1:21.59,1:19.81,"Jeffery, Harry ",15 ,SG,2.0
+Event 6 - Girls 15-18 100M Individual Medley,1.,1:07.59,1:08.04,"Eliason, Sarah ",17 ,RV,6.0
+Event 6 - Girls 15-18 100M Individual Medley,2.,1:10.76,1:10.28,"Xiao, Alice Y ",15 ,RV,4.0
+Event 6 - Girls 15-18 100M Individual Medley,3.,1:10.28,1:11.80,"Miller, Kelsie ",17 ,RV,3.0
+Event 6 - Girls 15-18 100M Individual Medley,2.,1:14.91,1:13.34,"Linck, Elizabeth ",16 ,SG,2.0
+Event 6 - Girls 15-18 100M Individual Medley,4.,1:19.87,1:17.09,"Zalalutdinov, Darya H ",15 ,SG,1.0
+Event 6 - Girls 15-18 100M Individual Medley,6.,1:23.81,1:25.66,"Lamb, Amy V ",18 ,SG,0.0
+Event 7 - Boys 8U 25M Freestyle,1.,18.72,17.38,"Sandstrom, Damian M ",8 ,SG,6.0
+Event 7 - Boys 8U 25M Freestyle,1.,18.19,19.48,"Liu, Caden ",8 ,RV,4.0
+Event 7 - Boys 8U 25M Freestyle,2.,18.70,19.89,"Egwim, Declan ",8 ,SG,3.0
+Event 7 - Boys 8U 25M Freestyle,4.,23.44,21.08,"Gleichmann, Joseph ",8 ,RV,2.0
+Event 7 - Boys 8U 25M Freestyle,4.,23.63,22.13,"Parker, Hunter ",7 ,SG,1.0
+Event 7 - Boys 8U 25M Freestyle,5.,23.86,22.87,"Kim, Calvin ",8 ,RV,0.0
+Event 7 - Boys 8U 25M Freestyle,6.,24.03,23.41,"Ascensio, Sebastian ",8 ,SG,0.0
+Event 7 - Boys 8U 25M Freestyle,6.,24.97,23.63,"Wu, Alexander ",7 ,RV,0.0
+Event 7 - Boys 8U 25M Freestyle,7.,21.15,25.04,"Sun, Thiago ",7 ,RV,0.0
+Event 7 - Boys 8U 25M Freestyle,7.,24.59,25.68,"Reynoso, Matias ",8 ,SG,0.0
+Event 7 - Boys 8U 25M Freestyle,8.,26.12,26.04,"Reynoso, Joaquin ",8 ,SG,0.0
+Event 7 - Boys 8U 25M Freestyle,9.,25.03,26.78,"Li, Nathan J ",7 ,RV,0.0
+Event 8 - Girls 8U 25M Freestyle,1.,17.88,17.22,"Zhang, Emma L ",7 ,RV,6.0
+Event 8 - Girls 8U 25M Freestyle,2.,17.84,17.47,"Robey, Abigail R ",8 ,RV,4.0
+Event 8 - Girls 8U 25M Freestyle,3.,18.75,18.15,"Young, Margie F ",8 ,RV,3.0
+Event 8 - Girls 8U 25M Freestyle,1.,19.35,19.87,"Seeley, Scout ",8 ,SG,2.0
+Event 8 - Girls 8U 25M Freestyle,5.,17.58,19.97,"Brown, Aminah T ",8 ,RV,1.0
+Event 8 - Girls 8U 25M Freestyle,6.,22.15,22.02,"Warner, Hazel M ",8 ,RV,0.0
+Event 8 - Girls 8U 25M Freestyle,4.,23.59,24.03,"Wilson, Nova ",8 ,SG,0.0
+Event 8 - Girls 8U 25M Freestyle,10.,25.29,24.66,"Zhong, Summer ",8 ,RV,0.0
+Event 8 - Girls 8U 25M Freestyle,5.,25.09,24.78,"Cofield, Olivia ",6 ,SG,0.0
+Event 8 - Girls 8U 25M Freestyle,7.,24.60,25.66,"Kessous, Emelia ",7 ,SG,0.0
+Event 8 - Girls 8U 25M Freestyle,9.,26.41,26.78,"Nusbaum, Coralie ",8 ,SG,0.0
+Event 8 - Girls 8U 25M Freestyle,10.,28.32,27.84,"Abbamonte, Piper ",8 ,SG,0.0
+Event 9 - Boys 9-10 50M Freestyle,1.,33.37,34.07,"Zhang, Eric L ",10 ,RV,6.0
+Event 9 - Boys 9-10 50M Freestyle,2.,35.01,34.33,"Elag, Mahmoud M ",9 ,RV,4.0
+Event 9 - Boys 9-10 50M Freestyle,6.,37.03,36.72,"Boyar, Grant ",9 ,SG,3.0
+Event 9 - Boys 9-10 50M Freestyle,6.,37.84,37.90,"Li, Evan ",9 ,RV,2.0
+Event 9 - Boys 9-10 50M Freestyle,7.,41.03,39.32,"Neeley, Kien ",10 ,RV,1.0
+Event 9 - Boys 9-10 50M Freestyle,8.,40.22,39.59,"Liu, Jayden ",10 ,RV,0.0
+Event 9 - Boys 9-10 50M Freestyle,9.,40.88,40.29,"Zhou, Lucas ",9 ,RV,0.0
+Event 9 - Boys 9-10 50M Freestyle,8.,46.08,42.44,"Makfinsky, James ",10 ,SG,0.0
+Event 9 - Boys 9-10 50M Freestyle,9.,48.88,50.60,"Goodman, Joseph ",9 ,SG,0.0
+Event 9 - Boys 9-10 50M Freestyle,10.,58.81,1:04.82,"Thomas, Gavin ",9 ,SG,0.0
+Event 9 - Boys 9-10 50M Freestyle,11.,1:17.59,1:16.94,"Dreyer, Ethan ",9 ,SG,0.0
